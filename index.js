@@ -1,8 +1,8 @@
 /*
  * Title: Basic Node Example
  * Description: Simple file that declares a few functions and invokes them.
- * Author: Leslie Lewis
- * Date: 10/24/17
+ * Author: James Njorio
+ * Date: 25/03/2023
  *
  */
 
